@@ -6,3 +6,7 @@ def test():
     print(name)
 
 test()
+
+def test2():
+    name = "LOl"
+    print(name)
