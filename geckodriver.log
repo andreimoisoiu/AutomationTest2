@@ -371,3 +371,1064 @@ console.warn: SearchSettings: "get: No settings file exists, new profile?" (new 
 Can't find symbol 'eglSwapBuffersWithDamageEXT'.
 Can't find symbol 'eglSetDamageRegionKHR'.
 JavaScript warning: https://www.deindeal.ch/_next/static/chunks/main-181e491a691af00e53ea.js, line 1: unreachable code after return statement
+1624345151331	Marionette	INFO	Stopped listening on port 58165
+1624345482551	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Andrei\\AppData\\Local\\Temp\\rust_mozprofileqxDpdr"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1624345485411	Marionette	INFO	Listening on port 58396
+1624345485742	Marionette	WARN	TLS certificate errors will be ignored for this session
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+JavaScript warning: https://www.deindeal.ch/_next/static/chunks/main-181e491a691af00e53ea.js, line 1: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.deindeal.ch"
+1624345672964	Marionette	INFO	Stopped listening on port 58396
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+rs\\Andrei\\AppData\\Local\\Temp\\rust_mozprofilezT1kpH"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1624345573171	Marionette	INFO	Listening on port 57361
+1624345573606	Marionette	WARN	TLS certificate errors will be ignored for this session
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+JavaScript warning: https://www.deindeal.ch/_next/static/chunks/main-181e491a691af00e53ea.js, line 1: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.deindeal.ch"
+1624345671723	Marionette	INFO	Stopped listening on port 57361
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1624345677657	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Andrei\\AppData\\Local\\Temp\\rust_mozprofileXOrE0R"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1624345680499	Marionette	INFO	Listening on port 52077
+1624345680869	Marionette	WARN	TLS certificate errors will be ignored for this session
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+JavaScript warning: https://www.deindeal.ch/_next/static/chunks/main-181e491a691af00e53ea.js, line 1: unreachable code after return statement
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1624346658142	Marionette	INFO	Stopped listening on port 52077
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+es/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1624346017937	Marionette	INFO	Listening on port 64934
+1624346018459	Marionette	WARN	TLS certificate errors will be ignored for this session
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+JavaScript warning: https://www.deindeal.ch/_next/static/chunks/main-181e491a691af00e53ea.js, line 1: unreachable code after return statement
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 567"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:567:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 567, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 567: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1624346930958	Marionette	INFO	Stopped listening on port 64934
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+rsWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1624346244042	Marionette	INFO	Listening on port 56646
+1624346244143	Marionette	WARN	TLS certificate errors will be ignored for this session
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+JavaScript warning: https://www.deindeal.ch/_next/static/chunks/main-181e491a691af00e53ea.js, line 1: unreachable code after return statement
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1624346932148	Marionette	INFO	Stopped listening on port 56646
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+rsWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1624346452510	Marionette	INFO	Listening on port 53166
+1624346452613	Marionette	WARN	TLS certificate errors will be ignored for this session
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+JavaScript warning: https://www.deindeal.ch/_next/static/chunks/main-181e491a691af00e53ea.js, line 1: unreachable code after return statement
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1624346933255	Marionette	INFO	Stopped listening on port 53166
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+ on port 61142
+1624346714475	Marionette	WARN	TLS certificate errors will be ignored for this session
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+JavaScript warning: https://www.deindeal.ch/_next/static/chunks/main-181e491a691af00e53ea.js, line 1: unreachable code after return statement
+[Parent 23376, Gecko_IOThread] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:545
+1624346934186	Marionette	INFO	Stopped listening on port 61142
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1624346885246	Marionette	INFO	Listening on port 58413
+1624346885351	Marionette	WARN	TLS certificate errors will be ignored for this session
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+JavaScript warning: https://www.deindeal.ch/_next/static/chunks/main-181e491a691af00e53ea.js, line 1: unreachable code after return statement
+1624346891781	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:235:19
+TimedPromise@chrome://marionette/content/sync.js:220:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1624346935270	Marionette	INFO	Stopped listening on port 58413
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1624346942718	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Andrei\\AppData\\Local\\Temp\\rust_mozprofilegnLJuC"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1624346945599	Marionette	INFO	Listening on port 65449
+1624346945930	Marionette	WARN	TLS certificate errors will be ignored for this session
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+JavaScript warning: https://www.deindeal.ch/_next/static/chunks/main-181e491a691af00e53ea.js, line 1: unreachable code after return statement
+1624347103411	Marionette	INFO	Stopped listening on port 65449
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1624349148423	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Andrei\\AppData\\Local\\Temp\\rust_mozprofileKK4s5m"
+1624349180531	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Andrei\\AppData\\Local\\Temp\\rust_mozprofilewvHPWW"
+1624349180988	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Andrei\\AppData\\Local\\Temp\\rust_mozprofilewvHPWW\\search.json.mozlz4", (void 0)))
+1624349183837	Marionette	INFO	Listening on port 65349
+1624349184246	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.deindeal.ch/_next/static/chunks/main-181e491a691af00e53ea.js, line 1: unreachable code after return statement
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 108: Error: Got a request https://www.gstatic.com/recaptcha/releases/FDTCuNjXhn1sV0lk31aK53uB/styles__ltr.css without a browsingContextID set
+1624349390460	Marionette	INFO	Stopped listening on port 65349
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1624349396372	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Andrei\\AppData\\Local\\Temp\\rust_mozprofileeUDQe3"
+1624349396845	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Andrei\\AppData\\Local\\Temp\\rust_mozprofileeUDQe3\\search.json.mozlz4", (void 0)))
+1624349399538	Marionette	INFO	Listening on port 63118
+1624349399585	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.deindeal.ch/_next/static/chunks/main-181e491a691af00e53ea.js, line 1: unreachable code after return statement
+1624349571535	Marionette	INFO	Stopped listening on port 63118
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1624349589214	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Andrei\\AppData\\Local\\Temp\\rust_mozprofileFSdxjw"
+1624349589669	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Andrei\\AppData\\Local\\Temp\\rust_mozprofileFSdxjw\\search.json.mozlz4", (void 0)))
+1624349592528	Marionette	INFO	Listening on port 64644
+1624349592935	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.deindeal.ch/_next/static/chunks/main-181e491a691af00e53ea.js, line 1: unreachable code after return statement
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 567"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:567:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 567, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 567: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 108: Error: Got a request https://www.gstatic.com/recaptcha/releases/FDTCuNjXhn1sV0lk31aK53uB/styles__ltr.css without a browsingContextID set
+1624349931024	Marionette	INFO	Stopped listening on port 64644
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1624350036030	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Andrei\\AppData\\Local\\Temp\\rust_mozprofileipNufv"
+1624350036515	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Andrei\\AppData\\Local\\Temp\\rust_mozprofileipNufv\\search.json.mozlz4", (void 0)))
+1624350039349	Marionette	INFO	Listening on port 50705
+1624350039740	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.deindeal.ch/_next/static/chunks/main-181e491a691af00e53ea.js, line 1: unreachable code after return statement
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 108: Error: Got a request https://www.gstatic.com/recaptcha/releases/FDTCuNjXhn1sV0lk31aK53uB/styles__ltr.css without a browsingContextID set
+[Parent 21704, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1624350342085	Marionette	INFO	Stopped listening on port 50705
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1624350346791	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Andrei\\AppData\\Local\\Temp\\rust_mozprofiletDMPJu"
+1624350347259	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Andrei\\AppData\\Local\\Temp\\rust_mozprofiletDMPJu\\search.json.mozlz4", (void 0)))
+1624350350014	Marionette	INFO	Listening on port 61480
+1624350350499	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.deindeal.ch/_next/static/chunks/main-181e491a691af00e53ea.js, line 1: unreachable code after return statement
+1624350789967	Marionette	INFO	Stopped listening on port 61480
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+rs\\Andrei\\AppData\\Local\\Temp\\rust_mozprofileXZEa6T"
+1624350421323	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Andrei\\AppData\\Local\\Temp\\rust_mozprofileXZEa6T\\search.json.mozlz4", (void 0)))
+1624350423755	Marionette	INFO	Listening on port 56616
+1624350424094	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.deindeal.ch/_next/static/chunks/main-181e491a691af00e53ea.js, line 1: unreachable code after return statement
+1624350536169	Marionette	INFO	Stopped listening on port 56616
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1624350544025	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Andrei\\AppData\\Local\\Temp\\rust_mozprofile9OhXFC"
+1624350544477	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Andrei\\AppData\\Local\\Temp\\rust_mozprofile9OhXFC\\search.json.mozlz4", (void 0)))
+1624350547148	Marionette	INFO	Listening on port 49679
+1624350547210	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.deindeal.ch/_next/static/chunks/main-181e491a691af00e53ea.js, line 1: unreachable code after return statement
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 108: Error: Got a request https://www.gstatic.com/recaptcha/releases/FDTCuNjXhn1sV0lk31aK53uB/styles__ltr.css without a browsingContextID set
+1624350790983	Marionette	INFO	Stopped listening on port 49679
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1624350796198	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Andrei\\AppData\\Local\\Temp\\rust_mozprofilerYVXRx"
+1624350796754	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Andrei\\AppData\\Local\\Temp\\rust_mozprofilerYVXRx\\search.json.mozlz4", (void 0)))
+1624350799542	Marionette	INFO	Listening on port 55584
+1624350799904	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.deindeal.ch/_next/static/chunks/main-181e491a691af00e53ea.js, line 1: unreachable code after return statement
+1624351001737	Marionette	INFO	Stopped listening on port 55584
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+rs\\Andrei\\AppData\\Local\\Temp\\rust_mozprofileFaayKJ"
+1624350874224	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Andrei\\AppData\\Local\\Temp\\rust_mozprofileFaayKJ\\search.json.mozlz4", (void 0)))
+1624350876786	Marionette	INFO	Listening on port 54288
+1624350877002	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.deindeal.ch/_next/static/chunks/main-181e491a691af00e53ea.js, line 1: unreachable code after return statement
+1624351002830	Marionette	INFO	Stopped listening on port 54288
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1624351021307	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Andrei\\AppData\\Local\\Temp\\rust_mozprofile5KTdOa"
+1624351021762	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Andrei\\AppData\\Local\\Temp\\rust_mozprofile5KTdOa\\search.json.mozlz4", (void 0)))
+1624351024482	Marionette	INFO	Listening on port 55242
+1624351024519	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.deindeal.ch/_next/static/chunks/main-181e491a691af00e53ea.js, line 1: unreachable code after return statement
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 108: Error: Got a request https://www.gstatic.com/recaptcha/releases/FDTCuNjXhn1sV0lk31aK53uB/styles__ltr.css without a browsingContextID set
+1624351313366	Marionette	INFO	Stopped listening on port 55242
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1624351322122	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Andrei\\AppData\\Local\\Temp\\rust_mozprofilegazbtY"
+1624351322679	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Andrei\\AppData\\Local\\Temp\\rust_mozprofilegazbtY\\search.json.mozlz4", (void 0)))
+1624351325436	Marionette	INFO	Listening on port 63477
+1624351325858	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.deindeal.ch/_next/static/chunks/main-181e491a691af00e53ea.js, line 1: unreachable code after return statement
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to sendJavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Andrei\\AppData\\Local\\Temp\\rust_mozprofileN7pBgD\\search.json.mozlz4", (void 0)))
+1624351392766	Marionette	INFO	Listening on port 64107
+1624351392872	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.deindeal.ch/_next/static/chunks/main-181e491a691af00e53ea.js, line 1: unreachable code after return statement
+1624351645573	Marionette	INFO	Stopped listening on port 64107
+1624351651248	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Andrei\\AppData\\Local\\Temp\\rust_mozprofile3b9Rvk"
+1624351651776	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Andrei\\AppData\\Local\\Temp\\rust_mozprofile3b9Rvk\\search.json.mozlz4", (void 0)))
+1624351654658	Marionette	INFO	Listening on port 49359
+1624351654969	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.deindeal.ch/_next/static/chunks/main-181e491a691af00e53ea.js, line 1: unreachable code after return statement
+1624351949149	Marionette	INFO	Stopped listening on port 49359
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1624351956466	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Andrei\\AppData\\Local\\Temp\\rust_mozprofileLQQhST"
+1624351956923	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Andrei\\AppData\\Local\\Temp\\rust_mozprofileLQQhST\\search.json.mozlz4", (void 0)))
+1624351959529	Marionette	INFO	Listening on port 56788
+1624351959682	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.deindeal.ch/_next/static/chunks/main-181e491a691af00e53ea.js, line 1: unreachable code after return statement
+JavaScript error: , line 0: uncaught exception: Timeout
+1624356466310	Marionette	INFO	Stopped listening on port 56788
+1624356471684	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Andrei\\AppData\\Local\\Temp\\rust_mozprofilekXotqB"
+1624356472142	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Andrei\\AppData\\Local\\Temp\\rust_mozprofilekXotqB\\search.json.mozlz4", (void 0)))
+1624356474717	Marionette	INFO	Listening on port 51192
+1624356474895	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.deindeal.ch/_next/static/chunks/main-181e491a691af00e53ea.js, line 1: unreachable code after return statement
+1624356503108	Marionette	INFO	Stopped listening on port 51192
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1624356839458	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Andrei\\AppData\\Local\\Temp\\rust_mozprofilexBAABw"
+1624356839961	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Andrei\\AppData\\Local\\Temp\\rust_mozprofilexBAABw\\search.json.mozlz4", (void 0)))
+1624356842683	Marionette	INFO	Listening on port 49487
+1624356843176	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.deindeal.ch/_next/static/chunks/main-181e491a691af00e53ea.js, line 1: unreachable code after return statement
+1624357536209	Marionette	INFO	Stopped listening on port 49487
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+rs\\Andrei\\AppData\\Local\\Temp\\rust_mozprofile18RgH9"
+1624356893333	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Andrei\\AppData\\Local\\Temp\\rust_mozprofile18RgH9\\search.json.mozlz4", (void 0)))
+1624356896095	Marionette	INFO	Listening on port 51086
+1624356896472	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.deindeal.ch/_next/static/chunks/main-181e491a691af00e53ea.js, line 1: unreachable code after return statement
+1624356938858	Marionette	INFO	Stopped listening on port 51086
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1624357487704	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Andrei\\AppData\\Local\\Temp\\rust_mozprofilekwfGAL"
+1624357488239	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Andrei\\AppData\\Local\\Temp\\rust_mozprofilekwfGAL\\search.json.mozlz4", (void 0)))
+1624357491100	Marionette	INFO	Listening on port 53659
+1624357491423	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.deindeal.ch/_next/static/chunks/main-181e491a691af00e53ea.js, line 1: unreachable code after return statement
+1624357538065	Marionette	INFO	Stopped listening on port 53659
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1624357543322	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Andrei\\AppData\\Local\\Temp\\rust_mozprofileIDoROT"
+1624357543779	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Andrei\\AppData\\Local\\Temp\\rust_mozprofileIDoROT\\search.json.mozlz4", (void 0)))
+1624357546423	Marionette	INFO	Listening on port 57465
+1624357546521	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.deindeal.ch/_next/static/chunks/main-181e491a691af00e53ea.js, line 1: unreachable code after return statement
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: resource://gre/modules/SelectionUtils.jsm, line 63: TypeError: selection is null
+JavaScript error: resource://gre/modules/SelectionUtils.jsm, line 63: TypeError: selection is null
+JavaScript error: resource://gre/modules/SelectionUtils.jsm, line 63: TypeError: selection is null
+SourceActor threw an exception: Error: Failed to fetch https://www.deindeal.ch/fr. Code 2152398878.
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:556:16
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 556, column: 16
+console.error: (new Error("Failed to fetch https://www.deindeal.ch/fr. Code 2152398878.", "resource://devtools/shared/DevToolsUtils.js", 556))
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 556: Error: Failed to fetch https://www.deindeal.ch/fr. Code 2152398878.
+SourceActor threw an exception: Error: Failed to fetch https://www.deindeal.ch/_next/static/v5.5.0/_ssgManifest.js. Code 2152398878.
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:556:16
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 556, column: 16
+console.error: (new Error("Failed to fetch https://www.deindeal.ch/_next/static/v5.5.0/_ssgManifest.js. Code 2152398878.", "resource://devtools/shared/DevToolsUtils.js", 556))
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 556: Error: Failed to fetch https://www.deindeal.ch/_next/static/v5.5.0/_ssgManifest.js. Code 2152398878.
+SourceActor threw an exception: Error: Failed to fetch https://www.deindeal.ch/_next/static/v5.5.0/_buildManifest.js. Code 2152398878.
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:556:16
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 556, column: 16
+console.error: (new Error("Failed to fetch https://www.deindeal.ch/_next/static/v5.5.0/_buildManifest.js. Code 2152398878.", "resource://devtools/shared/DevToolsUtils.js", 556))
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 556: Error: Failed to fetch https://www.deindeal.ch/_next/static/v5.5.0/_buildManifest.js. Code 2152398878.
+SourceActor threw an exception: Error: Failed to fetch https://bat.bing.com/p/action/25042844.js. Code 2152398878.
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:556:16
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 556, column: 16
+console.error: (new Error("Failed to fetch https://bat.bing.com/p/action/25042844.js. Code 2152398878.", "resource://devtools/shared/DevToolsUtils.js", 556))
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 556: Error: Failed to fetch https://bat.bing.com/p/action/25042844.js. Code 2152398878.
+SourceActor threw an exception: Error: Failed to fetch https://s.pinimg.com/ct/core.js. Code 2152398878.
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:556:16
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 556, column: 16
+console.error: (new Error("Failed to fetch https://s.pinimg.com/ct/core.js. Code 2152398878.", "resource://devtools/shared/DevToolsUtils.js", 556))
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 556: Error: Failed to fetch https://s.pinimg.com/ct/core.js. Code 2152398878.
+SourceActor threw an exception: Error: Failed to fetch https://www.deindeal.ch/fr/restaurant/search?latitude=46.2226181&longitude=6.0718375&postalCode=1217&sortBy=fd_libanese. Code 2152398878.
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:556:16
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 556, column: 16
+console.error: (new Error("Failed to fetch https://www.deindeal.ch/fr/restaurant/search?latitude=46.2226181&longitude=6.0718375&postalCode=1217&sortBy=fd_libanese. Code 2152398878.", "resource://devtools/shared/DevToolsUtils.js", 556))
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 556: Error: Failed to fetch https://www.deindeal.ch/fr/restaurant/search?latitude=46.2226181&longitude=6.0718375&postalCode=1217&sortBy=fd_libanese. Code 2152398878.
+1624357762049	Marionette	INFO	Stopped listening on port 57465
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1624358000196	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Andrei\\AppData\\Local\\Temp\\rust_mozprofiletgUzvi"
+1624358000656	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Andrei\\AppData\\Local\\Temp\\rust_mozprofiletgUzvi\\search.json.mozlz4", (void 0)))
+1624358003253	Marionette	INFO	Listening on port 56677
+1624358003406	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.deindeal.ch/_next/static/chunks/main-181e491a691af00e53ea.js, line 1: unreachable code after return statement
+1624358128014	Marionette	INFO	Stopped listening on port 56677
+ram Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Andrei\\AppData\\Local\\Temp\\rust_mozprofileTEVqD5"
+1624358073400	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Andrei\\AppData\\Local\\Temp\\rust_mozprofileTEVqD5\\search.json.mozlz4", (void 0)))
+1624358076264	Marionette	INFO	Listening on port 59131
+1624358076582	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.deindeal.ch/_next/static/chunks/main-181e491a691af00e53ea.js, line 1: unreachable code after return statement
+1624358129472	Marionette	INFO	Stopped listening on port 59131
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1624358149227	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Andrei\\AppData\\Local\\Temp\\rust_mozprofileii5OJi"
+1624358149700	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Andrei\\AppData\\Local\\Temp\\rust_mozprofileii5OJi\\search.json.mozlz4", (void 0)))
+1624358152286	Marionette	INFO	Listening on port 51902
+1624358152425	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.deindeal.ch/_next/static/chunks/main-181e491a691af00e53ea.js, line 1: unreachable code after return statement
+1624358247622	Marionette	INFO	Stopped listening on port 51902
+ram Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Andrei\\AppData\\Local\\Temp\\rust_mozprofileQywYfD"
+1624358206927	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Andrei\\AppData\\Local\\Temp\\rust_mozprofileQywYfD\\search.json.mozlz4", (void 0)))
+1624358209617	Marionette	INFO	Listening on port 61153
+1624358210107	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.deindeal.ch/_next/static/chunks/main-181e491a691af00e53ea.js, line 1: unreachable code after return statement
+1624358249287	Marionette	INFO	Stopped listening on port 61153
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1624358290933	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Andrei\\AppData\\Local\\Temp\\rust_mozprofilehAm8Zc"
+1624358291408	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Andrei\\AppData\\Local\\Temp\\rust_mozprofilehAm8Zc\\search.json.mozlz4", (void 0)))
+1624358294140	Marionette	INFO	Listening on port 57529
+1624358294638	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.deindeal.ch/_next/static/chunks/main-181e491a691af00e53ea.js, line 1: unreachable code after return statement
+JavaScript error: resource://gre/modules/SelectionUtils.jsm, line 63: TypeError: selection is null
+JavaScript error: resource://gre/modules/SelectionUtils.jsm, line 63: TypeError: selection is null
+JavaScript error: resource://gre/modules/SelectionUtils.jsm, line 63: TypeError: selection is null
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 108: Error: Got a request https://www.gstatic.com/recaptcha/releases/FDTCuNjXhn1sV0lk31aK53uB/styles__ltr.css without a browsingContextID set
+1624358734679	Marionette	INFO	Stopped listening on port 57529
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+rs\\Andrei\\AppData\\Local\\Temp\\rust_mozprofile8MUlpj"
+1624358588960	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Andrei\\AppData\\Local\\Temp\\rust_mozprofile8MUlpj\\search.json.mozlz4", (void 0)))
+1624358591715	Marionette	INFO	Listening on port 54104
+1624358592124	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.deindeal.ch/_next/static/chunks/main-181e491a691af00e53ea.js, line 1: unreachable code after return statement
+1624358735647	Marionette	INFO	Stopped listening on port 54104
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+rs\\Andrei\\AppData\\Local\\Temp\\rust_mozprofile1mJR3M"
+1624358671706	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Andrei\\AppData\\Local\\Temp\\rust_mozprofile1mJR3M\\search.json.mozlz4", (void 0)))
+1624358674465	Marionette	INFO	Listening on port 63030
+1624358674862	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.deindeal.ch/_next/static/chunks/main-181e491a691af00e53ea.js, line 1: unreachable code after return statement
+1624358737057	Marionette	INFO	Stopped listening on port 63030
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1624358743432	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Andrei\\AppData\\Local\\Temp\\rust_mozprofile3MHX4J"
+1624358743904	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Andrei\\AppData\\Local\\Temp\\rust_mozprofile3MHX4J\\search.json.mozlz4", (void 0)))
+1624358746567	Marionette	INFO	Listening on port 65333
+1624358746634	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.deindeal.ch/_next/static/chunks/main-181e491a691af00e53ea.js, line 1: unreachable code after return statement
+JavaScript error: resource://gre/modules/SelectionUtils.jsm, line 63: TypeError: selection is null
+JavaScript error: resource://gre/modules/SelectionUtils.jsm, line 63: TypeError: selection is null
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 108: Error: Got a request https://www.gstatic.com/recaptcha/releases/FDTCuNjXhn1sV0lk31aK53uB/styles__ltr.css without a browsingContextID set
+JavaScript error: https://www.deindeal.ch/fr, line 1: uncaught exception: Timeout
+JavaScript warning: https://www.deindeal.ch/_next/static/chunks/main-181e491a691af00e53ea.js, line 1: unreachable code after return statement
+1624359643639	Marionette	INFO	Stopped listening on port 65333
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+rs\\Andrei\\AppData\\Local\\Temp\\rust_mozprofileJBhtfZ"
+1624359559818	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Andrei\\AppData\\Local\\Temp\\rust_mozprofileJBhtfZ\\search.json.mozlz4", (void 0)))
+1624359562670	Marionette	INFO	Listening on port 54104
+1624359563014	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.deindeal.ch/_next/static/chunks/main-181e491a691af00e53ea.js, line 1: unreachable code after return statement
+1624359644570	Marionette	INFO	Stopped listening on port 54104
+1624359672766	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Andrei\\AppData\\Local\\Temp\\rust_mozprofile0LciFU"
+1624359673245	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Andrei\\AppData\\Local\\Temp\\rust_mozprofile0LciFU\\search.json.mozlz4", (void 0)))
+1624359675921	Marionette	INFO	Listening on port 54355
+1624359676003	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.deindeal.ch/_next/static/chunks/main-181e491a691af00e53ea.js, line 1: unreachable code after return statement
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 108: Error: Got a request https://www.gstatic.com/recaptcha/releases/FDTCuNjXhn1sV0lk31aK53uB/styles__ltr.css without a browsingContextID set
+JavaScript warning: https://www.deindeal.ch/_next/static/chunks/main-181e491a691af00e53ea.js, line 1: unreachable code after return statement
+[Parent 1108, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1624359820911	Marionette	INFO	Stopped listening on port 54355
+1624359827034	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Andrei\\AppData\\Local\\Temp\\rust_mozprofilekLUnxQ"
+1624359827508	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Andrei\\AppData\\Local\\Temp\\rust_mozprofilekLUnxQ\\search.json.mozlz4", (void 0)))
+1624359829992	Marionette	INFO	Listening on port 62294
+1624359830234	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.deindeal.ch/_next/static/chunks/main-181e491a691af00e53ea.js, line 1: unreachable code after return statement
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 567"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:567:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 567, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 567: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 108: Error: Got a request https://www.gstatic.com/recaptcha/releases/FDTCuNjXhn1sV0lk31aK53uB/styles__ltr.css without a browsingContextID set
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5A0009,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5A0004,name=PHttpChannel::Msg_Cancel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5A0009,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5A0004,name=PHttpChannel::Msg_Cancel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5A0009,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5A0004,name=PHttpChannel::Msg_Cancel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5A0009,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5A0004,name=PHttpChannel::Msg_Cancel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5A0009,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1624360003151	Marionette	INFO	Stopped listening on port 62294
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1624360008039	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Andrei\\AppData\\Local\\Temp\\rust_mozprofileMLiNqn"
+1624360008499	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Andrei\\AppData\\Local\\Temp\\rust_mozprofileMLiNqn\\search.json.mozlz4", (void 0)))
+1624360011234	Marionette	INFO	Listening on port 51763
+1624360011746	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.deindeal.ch/_next/static/chunks/main-181e491a691af00e53ea.js, line 1: unreachable code after return statement
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 567"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:567:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 567, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 567: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 108: Error: Got a request https://www.gstatic.com/recaptcha/releases/FDTCuNjXhn1sV0lk31aK53uB/styles__ltr.css without a browsingContextID set
+1624360138199	Marionette	INFO	Stopped listening on port 51763
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1624360152977	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Andrei\\AppData\\Local\\Temp\\rust_mozprofilekB1OEF"
+1624360153454	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Andrei\\AppData\\Local\\Temp\\rust_mozprofilekB1OEF\\search.json.mozlz4", (void 0)))
+1624360155896	Marionette	INFO	Listening on port 56632
+1624360156162	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.deindeal.ch/_next/static/chunks/main-181e491a691af00e53ea.js, line 1: unreachable code after return statement
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 108: Error: Got a request https://www.gstatic.com/recaptcha/releases/FDTCuNjXhn1sV0lk31aK53uB/styles__ltr.css without a browsingContextID set
+1624365440641	Marionette	INFO	Stopped listening on port 56632
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+rs\\Andrei\\AppData\\Local\\Temp\\rust_mozprofilepJRqvv"
+1624360372924	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Andrei\\AppData\\Local\\Temp\\rust_mozprofilepJRqvv\\search.json.mozlz4", (void 0)))
+1624360375686	Marionette	INFO	Listening on port 53906
+1624360376123	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.deindeal.ch/_next/static/chunks/main-181e491a691af00e53ea.js, line 1: unreachable code after return statement
+1624364352238	Marionette	INFO	Stopped listening on port 53906
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+rs\\Andrei\\AppData\\Local\\Temp\\rust_mozprofile3mp4bp"
+1624360424567	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Andrei\\AppData\\Local\\Temp\\rust_mozprofile3mp4bp\\search.json.mozlz4", (void 0)))
+1624360427703	Marionette	INFO	Listening on port 63310
+1624360428223	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.deindeal.ch/_next/static/chunks/main-181e491a691af00e53ea.js, line 1: unreachable code after return statement
+1624364353456	Marionette	INFO	Stopped listening on port 63310
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+rs\\Andrei\\AppData\\Local\\Temp\\rust_mozprofilebqvZpe"
+1624361343766	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Andrei\\AppData\\Local\\Temp\\rust_mozprofilebqvZpe\\search.json.mozlz4", (void 0)))
+1624361347049	Marionette	INFO	Listening on port 60001
+1624361347396	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.deindeal.ch/_next/static/chunks/main-181e491a691af00e53ea.js, line 1: unreachable code after return statement
+1624364354519	Marionette	INFO	Stopped listening on port 60001
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1624364455349	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Andrei\\AppData\\Local\\Temp\\rust_mozprofileV8sIG5"
+1624364455863	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Andrei\\AppData\\Local\\Temp\\rust_mozprofileV8sIG5\\search.json.mozlz4", (void 0)))
+1624364458769	Marionette	INFO	Listening on port 60557
+1624364459072	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.deindeal.ch/_next/static/chunks/main-181e491a691af00e53ea.js, line 1: unreachable code after return statement
+1624364512280	Marionette	INFO	Stopped listening on port 60557
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1624364645718	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Andrei\\AppData\\Local\\Temp\\rust_mozprofile3Zswvf"
+1624364646234	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Andrei\\AppData\\Local\\Temp\\rust_mozprofile3Zswvf\\search.json.mozlz4", (void 0)))
+1624364648961	Marionette	INFO	Listening on port 61893
+1624364649421	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.deindeal.ch/_next/static/chunks/main-181e491a691af00e53ea.js, line 1: unreachable code after return statement
+1624364860327	Marionette	INFO	Stopped listening on port 61893
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+rs\\Andrei\\AppData\\Local\\Temp\\rust_mozprofileBkDVpq"
+1624364744919	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Andrei\\AppData\\Local\\Temp\\rust_mozprofileBkDVpq\\search.json.mozlz4", (void 0)))
+1624364747930	Marionette	INFO	Listening on port 58384
+1624364748059	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.deindeal.ch/_next/static/chunks/main-181e491a691af00e53ea.js, line 1: unreachable code after return statement
+1624364862242	Marionette	INFO	Stopped listening on port 58384
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1624365062661	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Andrei\\AppData\\Local\\Temp\\rust_mozprofileB96Mb3"
+1624365063196	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Andrei\\AppData\\Local\\Temp\\rust_mozprofileB96Mb3\\search.json.mozlz4", (void 0)))
+1624365066048	Marionette	INFO	Listening on port 59908
+1624365066369	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.deindeal.ch/_next/static/chunks/main-181e491a691af00e53ea.js, line 1: unreachable code after return statement
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 108: Error: Got a request https://www.gstatic.com/recaptcha/releases/FDTCuNjXhn1sV0lk31aK53uB/styles__ltr.css without a browsingContextID set
+JavaScript error: https://www.deindeal.ch/fr, line 1: uncaught exception: Timeout
+[Child 6988, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:544
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1624373313435	Marionette	INFO	Stopped listening on port 59908
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+t C:\\Users\\Andrei\\AppData\\Local\\Temp\\rust_mozprofilegVN4gR\\search.json.mozlz4", (void 0)))
+1624365168417	Marionette	INFO	Listening on port 63654
+1624365168536	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.deindeal.ch/_next/static/chunks/main-181e491a691af00e53ea.js, line 1: unreachable code after return statement
+1624365445295	Marionette	INFO	Stopped listening on port 63654
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1624365540495	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Andrei\\AppData\\Local\\Temp\\rust_mozprofileJ7C7zc"
+1624365541030	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Andrei\\AppData\\Local\\Temp\\rust_mozprofileJ7C7zc\\search.json.mozlz4", (void 0)))
+1624365544070	Marionette	INFO	Listening on port 63667
+1624365544217	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.deindeal.ch/_next/static/chunks/main-181e491a691af00e53ea.js, line 1: unreachable code after return statement
+Marionette threw an error: TypeError: browsingContextFn().currentWindowGlobal is null
+getMarionetteCommandsActorProxy/get/<@chrome://marionette/content/actors/MarionetteCommandsParent.jsm:327:29
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1624365587270	Marionette	INFO	Stopped listening on port 63667
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1624365813148	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Andrei\\AppData\\Local\\Temp\\rust_mozprofilePQbYH1"
+1624365813691	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Andrei\\AppData\\Local\\Temp\\rust_mozprofilePQbYH1\\search.json.mozlz4", (void 0)))
+1624365816689	Marionette	INFO	Listening on port 57969
+1624365816829	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.deindeal.ch/_next/static/chunks/main-181e491a691af00e53ea.js, line 1: unreachable code after return statement
+1624365848123	Marionette	INFO	Stopped listening on port 57969
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1624366082484	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Andrei\\AppData\\Local\\Temp\\rust_mozprofile9fwA1r"
+1624366083049	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Andrei\\AppData\\Local\\Temp\\rust_mozprofile9fwA1r\\search.json.mozlz4", (void 0)))
+1624366086106	Marionette	INFO	Listening on port 61308
+1624366086200	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.deindeal.ch/_next/static/chunks/main-181e491a691af00e53ea.js, line 1: unreachable code after return statement
+[Parent 20664, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1624366455567	Marionette	INFO	Stopped listening on port 61308
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Andrei\\AppData\\Local\\Temp\\rust_mozprofile5UeJJa\\search.json.mozlz4", (void 0)))
+1624366262116	Marionette	INFO	Listening on port 49691
+1624366262174	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.deindeal.ch/_next/static/chunks/main-181e491a691af00e53ea.js, line 1: unreachable code after return statement
+1624366460011	Marionette	INFO	Stopped listening on port 49691
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1624367338206	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Andrei\\AppData\\Local\\Temp\\rust_mozprofileKQdSUW"
+1624367338729	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Andrei\\AppData\\Local\\Temp\\rust_mozprofileKQdSUW\\search.json.mozlz4", (void 0)))
+1624367341753	Marionette	INFO	Listening on port 54694
+1624367341920	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.deindeal.ch/_next/static/chunks/main-181e491a691af00e53ea.js, line 1: unreachable code after return statement
+1624368018084	Marionette	INFO	Stopped listening on port 54694
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+rs\\Andrei\\AppData\\Local\\Temp\\rust_mozprofile5Md7Rq"
+1624367558175	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Andrei\\AppData\\Local\\Temp\\rust_mozprofile5Md7Rq\\search.json.mozlz4", (void 0)))
+1624367561269	Marionette	INFO	Listening on port 61129
+1624367561318	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.deindeal.ch/_next/static/chunks/main-181e491a691af00e53ea.js, line 1: unreachable code after return statement
+JavaScript error: moz-extension://638cab54-1745-49c5-aa27-a9d3092e2d5a/assets/prompt.js, line 1: SyntaxError: redeclaration of let nextPromptResult
+JavaScript error: moz-extension://638cab54-1745-49c5-aa27-a9d3092e2d5a/assets/prompt.js, line 1: SyntaxError: redeclaration of let nextPromptResult
+JavaScript error: moz-extension://638cab54-1745-49c5-aa27-a9d3092e2d5a/assets/prompt.js, line 1: SyntaxError: redeclaration of let nextPromptResult
+JavaScript error: moz-extension://638cab54-1745-49c5-aa27-a9d3092e2d5a/assets/prompt.js, line 1: SyntaxError: redeclaration of let nextPromptResult
+JavaScript error: moz-extension://638cab54-1745-49c5-aa27-a9d3092e2d5a/assets/prompt.js, line 1: SyntaxError: redeclaration of let nextPromptResult
+JavaScript error: moz-extension://638cab54-1745-49c5-aa27-a9d3092e2d5a/assets/prompt.js, line 1: SyntaxError: redeclaration of let n1624368021143	Marionette	INFO	Stopped listening on port 55116
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+JavaScript error: moz-extension://638cab54-1745-49c5-aa27-a9d3092e2d5a/assets/prompt.js, line 1: SyntaxError: redeclaration of let nextPromptResult
+JavaScript warning: https://www.deindeal.ch/_next/static/chunks/main-181e491a691af00e53ea.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.deindeal.ch/_next/static/chunks/main-181e491a691af00e53ea.js, line 1: unreachable code after return statement
+JavaScript error: moz-extension://638cab54-1745-49c5-aa27-a9d3092e2d5a/assets/record.js, line 1: TypeError: a is undefined
+JavaScript error: moz-extension://638cab54-1745-49c5-aa27-a9d3092e2d5a/assets/record.js, line 1: TypeError: a is undefined
+JavaScript error: moz-extension://638cab54-1745-49c5-aa27-a9d3092e2d5a/assets/record.js, line 1: TypeError: a is undefined
+JavaScript error: moz-extension://638cab54-1745-49c5-aa27-a9d3092e2d5a/assets/record.js, line 1: TypeError: a is undefined
+JavaScript error: moz-extension://638cab54-1745-49c5-aa27-a9d3092e2d5a/assets/record.js, line 1: TypeError: a is undefined
+JavaScript error: moz-extension://638cab54-1745-49c5-aa27-a9d3092e2d5a/assets/record.js, line 1: TypeError: a is undefined
+JavaScript error: moz-extension://638cab54-1745-49c5-aa27-a9d3092e2d5a/assets/record.js, line 1: TypeError: a is undefined
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5A0004,name=PHttpChannel::Msg_Cancel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5A0009,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+1624368003316	Marionette	INFO	Stopped listening on port 61129
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1624368033869	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Andrei\\AppData\\Local\\Temp\\rust_mozprofile4m0bhd"
+1624368034438	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Andrei\\AppData\\Local\\Temp\\rust_mozprofile4m0bhd\\search.json.mozlz4", (void 0)))
+1624368037657	Marionette	INFO	Listening on port 50420
+1624368038086	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.deindeal.ch/_next/static/chunks/main-181e491a691af00e53ea.js, line 1: unreachable code after return statement
+1624368544489	addons.xpi	ERROR	System addon update list error Error: Failed downloading XML, status: 0, reason: error
+JavaScript error: moz-extension://1b89d2f3-4b21-439a-8732-747e8895f8e3/assets/prompt.js, line 1: SyntaxError: redeclaration of let nextPromptResult
+JavaScript error: moz-extension://1b89d2f3-4b21-439a-8732-747e8895f8e3/assets/prompt.js, line 1: SyntaxError: redeclaration of let nextPromptResult
+JavaScript error: moz-extension://1b89d2f3-4b21-439a-8732-747e8895f8e3/assets/prompt.js, line 1: SyntaxError: redeclaration of let nextPromptResult
+JavaScript error: moz-extension://1b89d2f3-4b21-439a-8732-747e8895f8e3/assets/prompt.js, line 1: SyntaxError: redeclaration of let nextPromptResult
+JavaScript error: moz-extension://1b89d2f3-4b21-439a-8732-747e8895f8e3/assets/prompt.js, line 1: SyntaxError: redeclaration of let nextPromptResult
+JavaScript error: moz-extension://1b89d2f3-4b21-439a-8732-747e8895f8e3/assets/prompt.js, line 1: SyntaxError: redeclaration of let nextPromptResult
+JavaScript error: moz-extension://1b89d2f3-4b21-439a-8732-747e8895f8e3/assets/prompt.js, line 1: SyntaxError: redeclaration of let nextPromptResult
+JavaScript error: moz-extension://1b89d2f3-4b21-439a-8732-747e8895f8e3/assets/prompt.js, line 1: SyntaxError: redeclaration of let nextPromptResult
+JavaScript warning: https://www.deindeal.ch/_next/static/chunks/main-181e491a691af00e53ea.js, line 1: unreachable code after return statement
+JavaScript error: moz-extension://1b89d2f3-4b21-439a-8732-747e8895f8e3/assets/record.js, line 1: TypeError: a is undefined
+JavaScript error: moz-extension://1b89d2f3-4b21-439a-8732-747e8895f8e3/assets/record.js, line 1: TypeError: a is undefined
+JavaScript error: moz-extension://1b89d2f3-4b21-439a-8732-747e8895f8e3/assets/record.js, line 1: TypeError: a is undefined
+JavaScript error: moz-extension://1b89d2f3-4b21-439a-8732-747e8895f8e3/assets/record.js, line 1: TypeError: a is undefined
+JavaScript error: moz-extension://1b89d2f3-4b21-439a-8732-747e8895f8e3/assets/record.js, line 1: TypeError: a is undefined
+JavaScript error: moz-extension://1b89d2f3-4b21-439a-8732-747e8895f8e3/assets/record.js, line 1: TypeError: a is undefined
+JavaScript error: moz-extension://1b89d2f3-4b21-439a-8732-747e8895f8e3/assets/record.js, line 1: TypeError: a is undefined
+JavaScript error: moz-extension://1b89d2f3-4b21-439a-8732-747e8895f8e3/assets/record.js, line 1: TypeError: a is undefined
+JavaScript error: moz-extension://1b89d2f3-4b21-439a-8732-747e8895f8e3/assets/record.js, line 1: TypeError: a is undefined
+JavaScript error: moz-extension://1b89d2f3-4b21-439a-8732-747e8895f8e3/assets/record.js, line 1: TypeError: a is undefined
+JavaScript error: moz-extension://1b89d2f3-4b21-439a-8732-747e8895f8e3/assets/record.js, line 1: TypeError: a is undefined
+JavaScript error: moz-extension://1b89d2f3-4b21-439a-8732-747e8895f8e3/assets/record.js, line 1: TypeError: a is undefined
+JavaScript error: moz-extension://1b89d2f3-4b21-439a-8732-747e8895f8e3/assets/record.js, line 1: TypeError: a is undefined
+JavaScript error: moz-extension://1b89d2f3-4b21-439a-8732-747e8895f8e3/assets/record.js, line 1: TypeError: a is undefined
+JavaScript error: moz-extension://1b89d2f3-4b21-439a-8732-747e8895f8e3/assets/record.js, line 1: TypeError: a is undefined
+JavaScript error: moz-extension://1b89d2f3-4b21-439a-8732-747e8895f8e3/assets/record.js, line 1: TypeError: a is undefined
+JavaScript error: moz-extension://1b89d2f3-4b21-439a-8732-747e8895f8e3/assets/record.js, line 1: TypeError: a is undefined
+JavaScript error: moz-extension://1b89d2f3-4b21-439a-8732-747e8895f8e3/assets/record.js, line 1: TypeError: a is undefined
+JavaScript error: moz-extension://1b89d2f3-4b21-439a-8732-747e8895f8e3/assets/record.js, line 1: TypeError: a is undefined
+JavaScript error: moz-extension://1b89d2f3-4b21-439a-8732-747e8895f8e3/assets/record.js, line 1: TypeError: a is undefined
+JavaScript error: moz-extension://1b89d2f3-4b21-439a-8732-747e8895f8e3/assets/record.js, line 1: TypeError: a is undefined
+JavaScript error: moz-extension://1b89d2f3-4b21-439a-8732-747e8895f8e3/assets/record.js, line 1: TypeError: a is undefined
+JavaScript error: moz-extension://1b89d2f3-4b21-439a-8732-747e8895f8e3/assets/record.js, line 1: TypeError: a is undefined
+JavaScript error: moz-extension://1b89d2f3-4b21-439a-8732-747e8895f8e3/assets/record.js, line 1: TypeError: a is undefined
+JavaScript error: moz-extension://1b89d2f3-4b21-439a-8732-747e8895f8e3/assets/record.js, line 1: TypeError: a is undefined
+JavaScript error: moz-extension://1b89d2f3-4b21-439a-8732-747e8895f8e3/assets/record.js, line 1: TypeError: a is undefined
+JavaScript error: moz-extension://1b89d2f3-4b21-439a-8732-747e8895f8e3/assets/record.js, line 1: TypeError: a is undefined
+JavaScript error: moz-extension://1b89d2f3-4b21-439a-8732-747e8895f8e3/assets/record.js, line 1: TypeError: a is undefined
+JavaScript error: moz-extension://1b89d2f3-4b21-439a-8732-747e8895f8e3/assets/record.js, line 1: TypeError: a is undefined
+JavaScript error: moz-extension://1b89d2f3-4b21-439a-8732-747e8895f8e3/assets/record.js, line 1: TypeError: a is undefined
+JavaScript error: moz-extension://1b89d2f3-4b21-439a-8732-747e8895f8e3/assets/record.js, line 1: TypeError: a is undefined
+JavaScript error: moz-extension://1b89d2f3-4b21-439a-8732-747e8895f8e3/assets/record.js, line 1: TypeError: a is undefined
+JavaScript error: moz-extension://1b89d2f3-4b21-439a-8732-747e8895f8e3/assets/record.js, line 1: TypeError: a is undefined
+JavaScript error: moz-extension://1b89d2f3-4b21-439a-8732-747e8895f8e3/assets/record.js, line 1: TypeError: a is undefined
+JavaScript error: moz-extension://1b89d2f3-4b21-439a-8732-747e8895f8e3/assets/record.js, line 1: TypeError: a is undefined
+JavaScript error: moz-extension://1b89d2f3-4b21-439a-8732-747e8895f8e3/assets/record.js, line 1: TypeError: a is undefined
+JavaScript error: moz-extension://1b89d2f3-4b21-439a-8732-747e8895f8e3/assets/record.js, line 1: TypeError: a is undefined
+JavaScript error: moz-extension://1b89d2f3-4b21-439a-8732-747e8895f8e3/assets/record.js, line 1: TypeError: a is undefined
+JavaScript error: moz-extension://1b89d2f3-4b21-439a-8732-747e8895f8e3/assets/record.js, line 1: TypeError: a is undefined
+JavaScript error: moz-extension://1b89d2f3-4b21-439a-8732-747e8895f8e3/assets/record.js, line 1: TypeError: a is undefined
+JavaScript error: moz-extension://1b89d2f3-4b21-439a-8732-747e8895f8e3/assets/record.js, line 1: TypeError: a is undefined
+JavaScript error: moz-extension://1b89d2f3-4b21-439a-8732-747e8895f8e3/assets/record.js, line 1: TypeError: a is undefined
+JavaScript error: moz-extension://1b89d2f3-4b21-439a-8732-747e8895f8e3/assets/record.js, line 1: TypeError: a is undefined
+JavaScript error: moz-extension://1b89d2f3-4b21-439a-8732-747e8895f8e3/assets/record.js, line 1: TypeError: a is undefined
+JavaScript error: moz-extension://1b89d2f3-4b21-439a-8732-747e8895f8e3/assets/record.js, line 1: TypeError: a is undefined
+JavaScript error: moz-extension://1b89d2f3-4b21-439a-8732-747e8895f8e3/assets/record.js, line 1: TypeError: a is undefined
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 108: Error: Got a request https://www.gstatic.com/recaptcha/releases/FDTCuNjXhn1sV0lk31aK53uB/styles__ltr.css without a browsingContextID set
+1624373308592	Marionette	INFO	Stopped listening on port 50420
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+rs\\Andrei\\AppData\\Local\\Temp\\rust_mozprofilestpa6D"
+1624372457215	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Andrei\\AppData\\Local\\Temp\\rust_mozprofilestpa6D\\search.json.mozlz4", (void 0)))
+1624372460646	Marionette	INFO	Listening on port 58018
+1624372460839	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.deindeal.ch/_next/static/chunks/main-181e491a691af00e53ea.js, line 1: unreachable code after return statement
+1624373309836	Marionette	INFO	Stopped listening on port 58018
+ram Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Andrei\\AppData\\Local\\Temp\\rust_mozprofile9Jz6fb"
+1624372833766	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Andrei\\AppData\\Local\\Temp\\rust_mozprofile9Jz6fb\\search.json.mozlz4", (void 0)))
+1624372837364	Marionette	INFO	Listening on port 62993
+1624372837450	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.deindeal.ch/_next/static/chunks/main-181e491a691af00e53ea.js, line 1: unreachable code after return statement
+1624373310959	Marionette	INFO	Stopped listening on port 62993
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+rs\\Andrei\\AppData\\Local\\Temp\\rust_mozprofiledvU2pj"
+1624372935627	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Andrei\\AppData\\Local\\Temp\\rust_mozprofiledvU2pj\\search.json.mozlz4", (void 0)))
+1624372939347	Marionette	INFO	Listening on port 55299
+1624372939747	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.deindeal.ch/_next/static/chunks/main-181e491a691af00e53ea.js, line 1: unreachable code after return statement
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1624373311994	Marionette	INFO	Stopped listening on port 55299
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1624373414225	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Andrei\\AppData\\Local\\Temp\\rust_mozprofileZG9Agt"
+1624373414684	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Andrei\\AppData\\Local\\Temp\\rust_mozprofileZG9Agt\\search.json.mozlz4", (void 0)))
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+1624373417336	Marionette	INFO	Listening on port 56341
+1624373417415	Marionette	WARN	TLS certificate errors will be ignored for this session
+1624373459193	Marionette	INFO	Stopped listening on port 56341
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1624434624951	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Andrei\\AppData\\Local\\Temp\\rust_mozprofilemL5hXS"
+1624434625789	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Andrei\\AppData\\Local\\Temp\\rust_mozprofilemL5hXS\\search.json.mozlz4", (void 0)))
+1624434628742	Marionette	INFO	Listening on port 64291
+1624434629165	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.deindeal.ch/_next/static/chunks/main-181e491a691af00e53ea.js, line 1: unreachable code after return statement
+JavaScript error: https://www.deindeal.ch/fr, line 1: uncaught exception: Timeout
+1624439628633	Marionette	INFO	Stopped listening on port 64291
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1624439654877	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Andrei\\AppData\\Local\\Temp\\rust_mozprofile5JaNI3"
+1624439655365	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Andrei\\AppData\\Local\\Temp\\rust_mozprofile5JaNI3\\search.json.mozlz4", (void 0)))
+1624439657971	Marionette	INFO	Listening on port 60601
+1624439658071	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.deindeal.ch/_next/static/chunks/main-181e491a691af00e53ea.js, line 1: unreachable code after return statement
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 567"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:567:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 567, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 567: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 108: Error: Got a request https://www.gstatic.com/recaptcha/releases/FDTCuNjXhn1sV0lk31aK53uB/styles__ltr.css without a browsingContextID set
+1624440256458	Marionette	INFO	Stopped listening on port 60601
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+3uB/styles__ltr.css without a browsingContextID set
+1624439975037	Marionette	INFO	Stopped listening on port 63913
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+rs\\Andrei\\AppData\\Local\\Temp\\rust_mozprofileyAMOPo"
+1624439891086	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Andrei\\AppData\\Local\\Temp\\rust_mozprofileyAMOPo\\search.json.mozlz4", (void 0)))
+1624439894080	Marionette	INFO	Listening on port 51689
+1624439894220	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.deindeal.ch/_next/static/chunks/main-181e491a691af00e53ea.js, line 1: unreachable code after return statement
+1624439971755	Marionette	INFO	Stopped listening on port 51689
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1624440127583	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Andrei\\AppData\\Local\\Temp\\rust_mozprofileoMsj05"
+1624440128113	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Andrei\\AppData\\Local\\Temp\\rust_mozprofileoMsj05\\search.json.mozlz4", (void 0)))
+1624440130944	Marionette	INFO	Listening on port 50160
+1624440131282	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.deindeal.ch/_next/static/chunks/main-181e491a691af00e53ea.js, line 1: unreachable code after return statement
+1624440215826	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Andrei\\AppData\\Local\\Temp\\rust_mozprofile80fS61"
+1624440216457	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Andrei\\AppData\\Local\\Temp\\rust_mozprofile80fS61\\search.json.mozlz4", (void 0)))
+1624440220028	Marionette	INFO	Listening on port 53012
+1624440220065	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.deindeal.ch/_next/static/chunks/main-181e491a691af00e53ea.js, line 1: unreachable code after return statement
+1624440259674	Marionette	INFO	Stopped listening on port 53012
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1624440264294	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Andrei\\AppData\\Local\\Temp\\rust_mozprofilez6OfvR"
+1624440264775	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Andrei\\AppData\\Local\\Temp\\rust_mozprofilez6OfvR\\search.json.mozlz4", (void 0)))
+1624440267673	Marionette	INFO	Listening on port 52454
+1624440268002	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.deindeal.ch/_next/static/chunks/main-181e491a691af00e53ea.js, line 1: unreachable code after return statement
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 108: Error: Got a request https://www.gstatic.com/recaptcha/releases/FDTCuNjXhn1sV0lk31aK53uB/styles__ltr.css without a browsingContextID set
+JavaScript error: https://www.deindeal.ch/fr, line 1: uncaught exception: Timeout
+m, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Andrei\\AppData\\Local\\Temp\\rust_mozprofile4GC4il\\search.json.mozlz4", (void 0)))
+1624440414344	Marionette	INFO	Listening on port 50320
+1624440414767	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.deindeal.ch/_next/static/chunks/main-181e491a691af00e53ea.js, line 1: unreachable code after return statement
+JavaScript error: , line 0: uncaught exception: Timeout
+1624445007963	Marionette	INFO	Stopped listening on port 50320
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1624440588176	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Andrei\\AppData\\Local\\Temp\\rust_mozprofile1Bvuwm\\search.json.mozlz4", (void 0)))
+1624440591206	Marionette	INFO	Listening on port 62724
+1624440591336	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.deindeal.ch/_next/static/chunks/main-181e491a691af00e53ea.js, line 1: unreachable code after return statement
+1624441098245	addons.xpi	ERROR	System addon update list error Error: Failed downloading XML, status: 0, reason: error
+JavaScript error: , line 0: uncaught exception: Timeout
+1624445006987	Marionette	INFO	Stopped listening on port 62724
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Andrei\\AppData\\Local\\Temp\\rust_mozprofilewto3Dm\\search.json.mozlz4", (void 0)))
+1624440664867	Marionette	INFO	Listening on port 51458
+1624440665130	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.deindeal.ch/_next/static/chunks/main-181e491a691af00e53ea.js, line 1: unreachable code after return statement
+1624441171151	addons.xpi	ERROR	System addon update list error Error: Failed downloading XML, status: 0, reason: error
+JavaScript error: , line 0: uncaught exception: Timeout
+[Parent 13356, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1624445005686	Marionette	INFO	Stopped listening on port 51458
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+ror("Could not open the file at C:\\Users\\Andrei\\AppData\\Local\\Temp\\rust_mozprofileKlNI3f\\search.json.mozlz4", (void 0)))
+1624440908850	Marionette	INFO	Listening on port 57648
+1624440909175	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.deindeal.ch/_next/static/chunks/main-181e491a691af00e53ea.js, line 1: unreachable code after return statement
+1624441414079	addons.xpi	ERROR	System addon update list error Error: Failed downloading XML, status: 0, reason: error
+JavaScript error: , line 0: uncaught exception: Timeout
+1624445004387	Marionette	INFO	Stopped listening on port 57648
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Andrei\\AppData\\Local\\Temp\\rust_mozprofileMEe6ft\\search.json.mozlz4", (void 0)))
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+1624441032339	Marionette	INFO	Listening on port 55242
+1624441032524	Marionette	WARN	TLS certificate errors will be ignored for this session
+1624441538544	addons.xpi	ERROR	System addon update list error Error: Failed downloading XML, status: 0, reason: error
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+1624445009040	Marionette	INFO	Stopped listening on port 55242
+1624445251838	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Andrei\\AppData\\Local\\Temp\\rust_mozprofileWIJ3nl"
+1624445252367	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Andrei\\AppData\\Local\\Temp\\rust_mozprofileWIJ3nl\\search.json.mozlz4", (void 0)))
+1624445255212	Marionette	INFO	Listening on port 59073
+1624445255559	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.deindeal.ch/_next/static/chunks/main-181e491a691af00e53ea.js, line 1: unreachable code after return statement
+1624445762415	addons.xpi	ERROR	System addon update list error Error: Failed downloading XML, status: 0, reason: error
+JavaScript error: , line 0: uncaught exception: Timeout
+1624469087593	Marionette	INFO	Stopped listening on port 59073
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Andrei\\AppData\\Local\\Temp\\rust_mozprofile0qdI37\\search.json.mozlz4", (void 0)))
+1624445638701	Marionette	INFO	Listening on port 64886
+1624445638819	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.deindeal.ch/_next/static/chunks/main-181e491a691af00e53ea.js, line 1: unreachable code after return statement
+1624446145702	addons.xpi	ERROR	System addon update list error Error: Failed downloading XML, status: 0, reason: error
+JavaScript error: , line 0: uncaught exception: Timeout
+1624469088804	Marionette	INFO	Stopped listening on port 64886
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
