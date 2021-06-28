@@ -3,6 +3,7 @@ from selenium.webdriver import ActionChains
 from selenium.webdriver.support.wait import WebDriverWait
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support import expected_conditions as EC
+import requests
 
 from Locators import Locators
 import time
@@ -12,7 +13,7 @@ driver = webdriver.Firefox()
 driver.get("https://www.deindeal.ch/fr/")
 
 #Find "food delevery" and click the link
-driver.find_element_by_id(Locators.foodDelivery).click()
+foodDelivery = driver.find_element_by_id(Locators.foodDelivery).click()
 time.sleep(5)
 
 #Get the current url, assert it and verify if the button that shows the restaurants is disabled
@@ -23,6 +24,7 @@ if showRestaurant.is_enabled():
     print("Element is enabled")
 else:
     pass
+
 
 #Enter the address for delivery and click sugestion
 
@@ -51,4 +53,22 @@ closePopUpButton.click()
 time.sleep(3)
 
 #Assert filter
-assert curretnURl.find("sortBy=fd_libanese") != -1
+filteredURL = driver.current_url
+assert filteredURL.find("sortBy=fd_libanese") != -1
+
+#Get list of ids
+searchResults = driver.find_elements_by_css_selector(".SalesList__list")
+print(searchResults)
+for x in range(len(searchResults)):
+    print(searchResults[x])
+
+#Make the api call
+
+def apiiCall():
+    response = requests.get("https://testfoodios.herokuapp.com/food_city/geneve")
+    print(response)
+    assert response.status_code == 200
+
+apiiCall()
+
+

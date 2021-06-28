@@ -7,3 +7,10 @@ class Locators:
     rightFilterFoodArrow = "/html/body/div[1]/div[2]/div/div[3]/div/button[2]"
     marketingFrame = "ju_iframe_335872"
     closeButtonMarketingFrame = "div.design-layer:nth-child(7) > div:nth-child(1)"
+    signInButton = "signin-button"
+    registerButton =  "display-register-button"
+    emailAddress = "register-email"
+    passwordFiled = "register-password"
+    selectCity = 'register-city'
+    chooseGender = "gender-man"
+    submmitButton = "register-submit-button"
